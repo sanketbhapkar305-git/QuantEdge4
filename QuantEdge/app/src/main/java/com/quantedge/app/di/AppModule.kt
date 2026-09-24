@@ -3,7 +3,6 @@ package com.quantedge.app.di
 import android.content.Context
 import androidx.room.Room
 import com.google.gson.GsonBuilder
-import com.quantedge.app.data.api.Database
 import com.quantedge.app.data.api.NewsApi
 import com.quantedge.app.data.api.PortfolioDao
 import com.quantedge.app.data.api.QuantEdgeDatabase
